@@ -1,0 +1,4 @@
+/Formation/Formation-web/target/
+/Formation/Formation-ejb/target/
+/Formation/Formation-ear/target/
+*.jar
